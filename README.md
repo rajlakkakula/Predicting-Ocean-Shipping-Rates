@@ -1,1 +1,3 @@
 # Predicting-Ocean-Shipping-Rates
+
+In this project, I predict ocean shipping rates for agriculturally important routes from US origins (US Gulf and US Pacific Northwest) to multiple destinations. I leverage various relevant and important variables, including brent crude oil prices, baltic dry exchange, bulker sales, global supply chain pressure index, total bulker sales, time charter rates, order book percent fleet, global bulk trade volume index, commodity (corn) price etc. 
